@@ -28,5 +28,5 @@
    ```
    sudo pacman -S --needed mesa vulkan-radeon lib32-vulkan-radeon
    ```
-   - Nvidia
+   - Nvidia\
    idk i dont have nvidia
