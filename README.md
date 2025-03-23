@@ -17,7 +17,7 @@
 ## Applications
    - Pacman
    ```
-   sudo pacman -S --needed telegram-desktop steam mangohud goverlay lib32-mangohud gamemode lib32-gamemode
+   sudo pacman -S --needed telegram-desktop steam mangohud goverlay qt6pas lib32-mangohud gamemode lib32-gamemode 
    ```
    - AUR
    ```
@@ -26,7 +26,7 @@
 ## Drivers
    - AMD
    ```
-   sudo pacman -S --needed mesa vulkan-radeon lib32-vulkan-radeon
+   sudo pacman -S --needed mesa mesa-demos vulkan-tools vulkan-radeon lib32-vulkan-radeon
    ```
    - Nvidia\
    idk i dont have nvidia
