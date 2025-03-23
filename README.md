@@ -1,0 +1,2 @@
+# Arch-KDE
+Default applications
