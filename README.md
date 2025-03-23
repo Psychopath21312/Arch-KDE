@@ -1,7 +1,7 @@
 # Arch-KDE
 ## KDE environment
    ```
-   sudo pacman -S --needed plasma konsole firefox dolphin ark pipewire pipewire-pulse wireplumber gwenview dragon
+   sudo pacman -S --needed plasma konsole firefox dolphin ark pipewire pipewire-pulse wireplumber ffmpeg gwenview dragon
    ```
 ## Must have
    ```
@@ -29,4 +29,4 @@
    sudo pacman -S --needed mesa vulkan-radeon lib32-vulkan-radeon
    ```
    - Nvidia\
-   idk i dont have nvidia
+     idk i dont have nvidia ^-^
