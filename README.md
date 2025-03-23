@@ -1,7 +1,7 @@
 # Arch-KDE
 ## KDE environment
    ```
-   sudo pacman -S --needed plasma konsole firefox dolphin ark gwenview dragon
+   sudo pacman -S --needed plasma konsole firefox dolphin ark pipewire pipewire-pulse wireplumber gwenview dragon
    ```
 ## Must have
    ```
