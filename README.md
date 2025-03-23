@@ -8,12 +8,12 @@
    sudo pacman -S --needed git fuse arj lrzip lzop 7zip unarchiver unrar
    '''
 ## AUR helper
-   '''
-   sudo pacman -S --needed base-devel
-   git clone https://aur.archlinux.org/paru.git
-   cd paru
-   makepkg -si
-   '''
+'''
+sudo pacman -S --needed base-devel
+git clone https://aur.archlinux.org/paru.git
+cd paru
+makepkg -si
+'''
 ## Applications
    - Pacman
    '''
