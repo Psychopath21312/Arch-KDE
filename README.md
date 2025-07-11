@@ -14,7 +14,7 @@
    cd paru
    makepkg -si
    ```
-## Applications
+## Another Applications(telegram, steam, ... )
    - Pacman
    ```
    sudo pacman -S --needed telegram-desktop steam mangohud goverlay mesa-demos vulkan-tools qt6pas lib32-mangohud gamemode lib32-gamemode 
