@@ -9,7 +9,7 @@
    ```
 ## AUR helper
    ```
-   sudo pacman -S --needed base-devel
+   sudo pacman -S --needed base-devel rust
    git clone https://aur.archlinux.org/paru.git
    cd paru
    makepkg -si
